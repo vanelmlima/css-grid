@@ -11,8 +11,10 @@
 }
 
 .cabecalho {
-    background: #00cc99;
+    display: flex;
+    align-items: center;
     grid-area: cabecalho;
+    padding: 0 2rem;
 }
  
 .conteudo {

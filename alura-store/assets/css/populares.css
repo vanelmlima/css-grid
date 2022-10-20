@@ -24,7 +24,10 @@
 	grid-template-columns: 100%;
 	width: calc(20% - 1rem);
 	margin-right: 1rem;
+}
 
+.populares__card:last-child {
+	margin-right: 0;
 }
 
 .populares__card___imagem {
