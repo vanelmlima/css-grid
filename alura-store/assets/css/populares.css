@@ -22,8 +22,6 @@
 		"card-imagem"
 		"card-corpo";
 	grid-template-columns: 100%;
-	width: calc(20% - 1rem);
-	margin-right: 1rem;
 }
 
 .populares__card:last-child {
